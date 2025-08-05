@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Documentação do Projeto'
+project = 'IFSports'
 copyright = '2025, ifsports'
 author = 'ifsports'
 release = '1.0'
